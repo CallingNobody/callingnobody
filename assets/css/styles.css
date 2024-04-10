@@ -20,6 +20,28 @@ p, a {
   right:0;
 } 
 
+.fadein img{
+  opacity:1;
+  transition: 1s ease;
+  }
+  
+ .fadein img:hover{
+  opacity:0.5;
+  transition: 1s ease;
+  }
+
+  .fadein a{
+    opacity:1;
+    transition: 1s ease;
+    }
+    
+   .fadein a:hover{
+    opacity:0.5;
+    transition: 1s ease;
+    }
+  
+  
+
 /* logo 
 <div id="logo"> 
       <img src="assets/img/logo4.png" 
