@@ -1,5 +1,5 @@
 body {
-    background-image:url(./../../assets/img/logo2.png);
+    background-image:url(./../../assets/img/logo6.png);
     background-repeat: repeat;
     background-position: center;
     background-size: 200px;
@@ -18,6 +18,5 @@ a {
     color: white;
     font-size: 0.5em; 
     font-family: 'Libre Barcode 39 Text', sans-serif;
-
 }
 
