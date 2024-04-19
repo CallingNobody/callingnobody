@@ -44,6 +44,26 @@ p, a {
     font-stretch: ultra-expanded;
    }
   
+   #v-text a {
+    font-size: 45px;
+    color: white;
+    font-family: 'Imbue', sans-serif;
+    font-weight: bolder;
+           
+  }
+  #s-text a {
+    vertical-align: top;
+    position:relative;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 0.75em;
+    font-size: 1em; 
+    font-family: 'Imbue', sans-serif;
+    background-color: black;
+    color: white;
+  }
+  
   
 
 /* logo 
